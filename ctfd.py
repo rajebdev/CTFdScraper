@@ -56,8 +56,7 @@ class CTFdScrape(object):
         resp = self.ses.get('%s/%s' % (self.ch_url,id)).json()
         if self.version != 'v.1.2.0':
             self.parseData(resp['data'])
-            return resp['data']
-        return resp
+        self.parseData(resp)
 
     def parseData(self, data):
         entry = {
