@@ -1,0 +1,5 @@
+Description:
+Masa penjajahan sudah berlalu dan kini kita memasuki jamannya dimana Smartphone menjadi kebutuhan primer hampir disetiap orang. Tapi ada yang unik dari Andi. Teman-teman andi umumnya adalah pengguna Smartphone yang akut tapi tidak dengan Andi. Dia memiliki pikiran bahwa Smartphone itu hanyalah sebuah alat untuk mengisi waktu luang atau alat yang digunakan untuk meningkatkan produktivitas.  Dengan pertimbangan tersebut akhirnya Andi memutuskan untuk membeli HP jadul dengan merk NOKYA 1112 agar dia tidak menderita penyakit akut  yang diderita teman-temannya.  <br>
+Suatu ketika, salah satu teman Andi bernama Roni mengirim pesan kepadanya untuk menanyakan jawaban dari tugas yang diberikan oleh gurunya tentang Universitas Gadjah Mada. Setelah beberapa lama menunggu Roni mendapat balasan dari Andi. Namun apa daya Roni tidak mengerti tentang pesan yang diberikan oleh Andi.
+<br>
+Bantulah Roni untuk memahami pesan yang diberikan oleh Andi supaya tugasnya selesai.

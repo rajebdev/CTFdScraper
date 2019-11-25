@@ -1,0 +1,666 @@
+{
+    "data": {
+        "Binary Exploitation": [
+            {
+                "category": "Binary Exploitation", 
+                "description": "nc 202.43.92.132 41001", 
+                "files": [
+                    "/files/bc8a71af0f227758490f7b5396e04680/buf1?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjoyOH0.XdwgqA.jV4ndlWiKab660J_uKoHIs42atQ"
+                ], 
+                "hint": "", 
+                "id": 36, 
+                "name": "Buffer 1", 
+                "points": 20
+            }, 
+            {
+                "category": "Binary Exploitation", 
+                "description": "nc 202.43.92.132 port:41000", 
+                "files": [
+                    "/files/c423d02d9a3aff2709a99dead6912c05/one_punch?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjoyOX0.Xdwgqg.ojfKI88c8D3gPAECqhs1zWtX5rg"
+                ], 
+                "hint": "", 
+                "id": 37, 
+                "name": "One Punch", 
+                "points": 36
+            }, 
+            {
+                "category": "Binary Exploitation", 
+                "description": "nc 202.43.92.132 41002", 
+                "files": [
+                    "/files/80e88a7841048e5ba4bc672542e327fb/buf2?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjozMH0.Xdwgqg.aUlLPEYUQZbaTvfm2Dl-C_SaLXM"
+                ], 
+                "hint": "", 
+                "id": 38, 
+                "name": "Buffer 2", 
+                "points": 78
+            }, 
+            {
+                "category": "Binary Exploitation", 
+                "description": "nc  202.43.92.132 41003", 
+                "files": [
+                    "/files/9651c2062f34249877be0dd0495bf36e/bebas?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjozMX0.XdwgrA.b4ZYwZzBps2J_dEfxncLGgmfEZY"
+                ], 
+                "hint": "", 
+                "id": 39, 
+                "name": "Bebas", 
+                "points": 65
+            }, 
+            {
+                "category": "Binary Exploitation", 
+                "description": "nc 202.43.92.132 41004", 
+                "files": [
+                    "/files/7f54be61a889a44133ec8f95f8cd0acf/buffow?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjozMn0.XdwgrA.R725PMpPaOyyd-ngWMhkxPbrM9E"
+                ], 
+                "hint": "", 
+                "id": 40, 
+                "name": "Buffow", 
+                "points": 78
+            }, 
+            {
+                "category": "Binary Exploitation", 
+                "description": "nc 202.43.92.132 41005", 
+                "files": [
+                    "/files/d1e6c9cee9e8b842c98db3c510c034b7/kemenangan?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjozNn0.XdwgrQ.38w7u3fX5oE-z0YPvAk7XVMtnMg"
+                ], 
+                "hint": "", 
+                "id": 45, 
+                "name": "Kemenangan", 
+                "points": 52
+            }, 
+            {
+                "category": "Binary Exploitation", 
+                "description": "nc nc 202.43.92.132 41006", 
+                "files": [
+                    "/files/0fbdab99d5cad979b7221dc27b500ca6/basic1?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjo0OX0.Xdwgrg.lOO0v8IuayGyp7e1fSljuCxyrPk"
+                ], 
+                "hint": "", 
+                "id": 59, 
+                "name": "Basic PWN 1", 
+                "points": 10
+            }, 
+            {
+                "category": "Binary Exploitation", 
+                "description": "nc 202.43.92.132 41007", 
+                "files": [
+                    "/files/ffa02853eb7079eb7007f3595125c397/basic2?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjo1MH0.Xdwgrg.t7fHwAPYlGneSv0zXO2Qs97rosA"
+                ], 
+                "hint": "", 
+                "id": 60, 
+                "name": "Basic PWN 2", 
+                "points": 10
+            }, 
+            {
+                "category": "Binary Exploitation", 
+                "description": "nc 202.43.92.132 41008", 
+                "files": [
+                    "/files/d1b46e0b5c6fbd9a1ce12714d312a379/basic3?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjo1MX0.Xdwgrw.4flfgAk9rpgw-qQYEzJMTJtNvh0"
+                ], 
+                "hint": "", 
+                "id": 61, 
+                "name": "Basic PWN 3", 
+                "points": 10
+            }
+        ], 
+        "Crypto": [
+            {
+                "category": "Crypto", 
+                "description": "entahlah <br>\r\n415347616D617B4833785F6834785F4831787D", 
+                "files": [], 
+                "hint": "", 
+                "id": 1, 
+                "name": "HEXcalibur", 
+                "points": 10
+            }, 
+            {
+                "category": "Crypto", 
+                "description": "QVNHYW1he1QzcmI0ZWtfMXNfVGgzX0Izc3R9", 
+                "files": [], 
+                "hint": "", 
+                "id": 2, 
+                "name": "Base64", 
+                "points": 10
+            }, 
+            {
+                "category": "Crypto", 
+                "description": "TWDtfe{sbzikxki_xmty_sbgidtk}", 
+                "files": [], 
+                "hint": "", 
+                "id": 3, 
+                "name": "Bellaso", 
+                "points": 20
+            }, 
+            {
+                "category": "Crypto", 
+                "description": "QIWqcq{S4ui4h_sx1f3uh}", 
+                "files": [], 
+                "hint": "", 
+                "id": 4, 
+                "name": "Caesar", 
+                "points": 20
+            }, 
+            {
+                "category": "Crypto", 
+                "description": "405246606c607a316f325e637875325e796e737c", 
+                "files": [], 
+                "hint": "", 
+                "id": 5, 
+                "name": "Xorong 1 byte", 
+                "points": 30
+            }, 
+            {
+                "category": "Crypto", 
+                "description": "Aan1_3S{stCrGTp11}ar0opm45nh", 
+                "files": [], 
+                "hint": "", 
+                "id": 6, 
+                "name": "Tran5po5ition", 
+                "points": 20
+            }, 
+            {
+                "category": "Crypto", 
+                "description": "393c350007000322070d1e500803413e32510a301952131c", 
+                "files": [], 
+                "hint": "", 
+                "id": 7, 
+                "name": "Xorong aja", 
+                "points": 64
+            }, 
+            {
+                "category": "Crypto", 
+                "description": "Terba1ek <br>\r\nFlag: ASGama{flag}", 
+                "files": [
+                    "/files/0fd74e3107174bca289bb82059a07db3/pulang.txt?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjozfQ.Xdwgrg.ewsEqwpVEGkHoHD28rBbejG7FNE"
+                ], 
+                "hint": "", 
+                "id": 9, 
+                "name": "Reverse", 
+                "points": 10
+            }, 
+            {
+                "category": "Crypto", 
+                "description": "Beast2", 
+                "files": [
+                    "/files/9b077d24fbc771eccb2f7dd3a685acce/encoded.txt?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjoyfQ.Xdwgrw.WXyn4XNcK09wkErsV2wyZXpjaOc"
+                ], 
+                "hint": "", 
+                "id": 10, 
+                "name": "Satu Nol", 
+                "points": 10
+            }, 
+            {
+                "category": "Crypto", 
+                "description": "Mac Donald 5 and Beast 32", 
+                "files": [
+                    "/files/05f4f5b4fb1c9ea66d0c272ca989f19d/code_name.txt?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjo0fQ.XdwgsA.GxqniUFZLhY4MOoJWbh4apQM6TI"
+                ], 
+                "hint": "", 
+                "id": 11, 
+                "name": "MD5 Base32", 
+                "points": 20
+            }, 
+            {
+                "category": "Crypto", 
+                "description": "Semoga tetap semangat dan sehat selalu", 
+                "files": [
+                    "/files/c3ab2abff4322c6c1e4baf9f9ae2c72b/capek.txt?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjo1fQ.XdwgsA.JfR9MaYiqMeHVvu8zdSedQ1uaFQ"
+                ], 
+                "hint": "", 
+                "id": 12, 
+                "name": "Capek", 
+                "points": 30
+            }, 
+            {
+                "category": "Crypto", 
+                "description": "Tukarkan saja ke toko terdekat puiqpiuq", 
+                "files": [
+                    "/files/b89d347a4aafe689a3763f0e2d40c9b4/Tukar.txt?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjo2fQ.XdwgsQ.IteHTkV7lRiUFMndnbYEJh3KPLk"
+                ], 
+                "hint": "", 
+                "id": 13, 
+                "name": "Subtitusi", 
+                "points": 20
+            }, 
+            {
+                "category": "Crypto", 
+                "description": "Format Flag: ASGama{flag}", 
+                "files": [
+                    "/files/23796625c6700cec47dea5b5a7a3eecc/tikus.wav?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjo3fQ.XdwgsQ.u09_mODMeHoecq4Qrj_wT18Az1o"
+                ], 
+                "hint": "", 
+                "id": 14, 
+                "name": "Samuel Morse", 
+                "points": 10
+            }, 
+            {
+                "category": "Crypto", 
+                "description": "Just Do it", 
+                "files": [
+                    "/files/5f143ef2091bb561f68dc20b86c4e73d/pub.key?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjo4fQ.XdwgsQ.8dSIvidKocI4iy-rbhNHhxWVlQs"
+                ], 
+                "hint": "", 
+                "id": 15, 
+                "name": "Basic RSA", 
+                "points": 140
+            }, 
+            {
+                "category": "Crypto", 
+                "description": "ETTCRQ_KCXZQD_CG_KLEGGCK_KCXZQD_JUU <br>\r\nA = ? <br>\r\nB = 4 <br>\r\n\r\nFormat flag: ASGama{flag}", 
+                "files": [], 
+                "hint": "", 
+                "id": 16, 
+                "name": "Affine cipher", 
+                "points": 20
+            }, 
+            {
+                "category": "Crypto", 
+                "description": "Format flag: ASGama{flag}", 
+                "files": [
+                    "/files/e983bd6a560cea0572376587dea56b31/transposisilvl2.txt?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjoxOX0.Xdwgsg.XMQ1-bZhagtBreqECASoa8gIXSA"
+                ], 
+                "hint": "", 
+                "id": 26, 
+                "name": "Tran5po5ition lv12", 
+                "points": 90
+            }, 
+            {
+                "category": "Crypto", 
+                "description": "Flag : c3be4dt_4i1p_rnz_r4hv5Z", 
+                "files": [], 
+                "hint": "", 
+                "id": 27, 
+                "name": "Playfair", 
+                "points": 61
+            }, 
+            {
+                "category": "Crypto", 
+                "description": "... <br>\r\nassert len(flag) % 2 == 0 <br>\r\nhalf1 = flag[:len(flag)/2] <br>\r\nhalf2 = flag[len(flag)/2:] <br>\r\n\r\nassert xor(half1, half2) == ',#&\\x0f\\n>\\x0f\\x08\\x1c' <br>", 
+                "files": [], 
+                "hint": "", 
+                "id": 44, 
+                "name": "xor 1/2", 
+                "points": 30
+            }, 
+            {
+                "category": "Crypto", 
+                "description": "Are you fast enough to solve this 5 of a kind random type without see anything ?\r\n\r\nnc 202.43.92.132 42000\r\n\r\ncreator : yeraisci\r\n", 
+                "files": [], 
+                "hint": "", 
+                "id": 47, 
+                "name": "Blind RSA", 
+                "points": 300
+            }, 
+            {
+                "category": "Crypto", 
+                "description": "Are you sure you can pwn this lab :) ? <br>\r\n\r\nnc 202.43.92.132 42001 <br>\r\n\r\ncreator : yeraisci\r\n", 
+                "files": [
+                    "/files/a014672f49c844fa5488bc69e3859193/challs.py?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjozN30.Xdwgsg.DMsypX3RiPY6jb3iyRWxUQjdRLc"
+                ], 
+                "hint": "", 
+                "id": 48, 
+                "name": "Cryptolab", 
+                "points": 300
+            }, 
+            {
+                "category": "Crypto", 
+                "description": "ATIdqf{uum_csxq_cos}", 
+                "files": [], 
+                "hint": "", 
+                "id": 49, 
+                "name": "One Time Pad", 
+                "points": 20
+            }, 
+            {
+                "category": "Crypto", 
+                "description": "Awal perkembangan menuju kriptografi modern yang lebih aman", 
+                "files": [
+                    "/files/add3a1c271ed302dd9f972a0f5a63600/data.enc?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjozOH0.Xdwgsw.07lNAp-O0DGbL20slgMsHoirNfg"
+                ], 
+                "hint": "", 
+                "id": 51, 
+                "name": "Defensive Encryption for Security", 
+                "points": 62
+            }, 
+            {
+                "category": "Crypto", 
+                "description": "nc 202.43.92.132 42007\r\n", 
+                "files": [
+                    "/files/be41dc2d44886ba6b876f1292eb0b847/aesik.py?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjo0NH0.Xdwgsw.7sdANljz29w5KbFzJMr9jdtG7qU"
+                ], 
+                "hint": "", 
+                "id": 55, 
+                "name": "AESik", 
+                "points": 300
+            }, 
+            {
+                "category": "Crypto", 
+                "description": "bantu up soal GEMASTIK <br>\r\nformat flag : gemastik12{flag}", 
+                "files": [], 
+                "hint": "", 
+                "id": 63, 
+                "name": "GEMASTIK2019 Belasso Cipher", 
+                "points": 40
+            }, 
+            {
+                "category": "Crypto", 
+                "description": "Masa penjajahan sudah berlalu dan kini kita memasuki jamannya dimana Smartphone menjadi kebutuhan primer hampir disetiap orang. Tapi ada yang unik dari Andi. Teman-teman andi umumnya adalah pengguna Smartphone yang akut tapi tidak dengan Andi. Dia memiliki pikiran bahwa Smartphone itu hanyalah sebuah alat untuk mengisi waktu luang atau alat yang digunakan untuk meningkatkan produktivitas.  Dengan pertimbangan tersebut akhirnya Andi memutuskan untuk membeli HP jadul dengan merk NOKYA 1112 agar dia tidak menderita penyakit akut  yang diderita teman-temannya.  <br>\r\nSuatu ketika, salah satu teman Andi bernama Roni mengirim pesan kepadanya untuk menanyakan jawaban dari tugas yang diberikan oleh gurunya tentang Universitas Gadjah Mada. Setelah beberapa lama menunggu Roni mendapat balasan dari Andi. Namun apa daya Roni tidak mengerti tentang pesan yang diberikan oleh Andi.\r\n<br>\r\nBantulah Roni untuk memahami pesan yang diberikan oleh Andi supaya tugasnya selesai.\r\n", 
+                "files": [
+                    "/files/4b303dddf72ed66582182ee2fc23c640/halo.enc?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjo1M30.Xdwgsw.KmIjSS_sozOREzSe7JQAbLqlSPA"
+                ], 
+                "hint": "", 
+                "id": 64, 
+                "name": "Halo-Halo", 
+                "points": 150
+            }
+        ], 
+        "Forensic": [
+            {
+                "category": "Forensic", 
+                "description": "Get bitten", 
+                "files": [
+                    "/files/7a059e054c6612fd3d25e993fbd6c54e/file.zip?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjo5fQ.XdwgqA.4JbLSm6TNfEj3PxCPj2B5U7rnqk"
+                ], 
+                "hint": "", 
+                "id": 17, 
+                "name": "Version Control", 
+                "points": 86
+            }, 
+            {
+                "category": "Forensic", 
+                "description": "", 
+                "files": [
+                    "/files/10e1a1b90795b833a8aed78820df2fd9/Simbol.png?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjoxNH0.Xdwgqg.sQ62QnNiNLKxtPOCtFq-mZv_Ubw"
+                ], 
+                "hint": "", 
+                "id": 23, 
+                "name": "Hidden Leaf", 
+                "points": 10
+            }, 
+            {
+                "category": "Forensic", 
+                "description": "Kamu mending ngeliatin dia aja", 
+                "files": [
+                    "/files/16227539609118a68e60a79debc63960/Yellow.jpg?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjoxNX0.Xdwgqg.XTjbqBSdta3TihLJtfLRidrakZY"
+                ], 
+                "hint": "", 
+                "id": 24, 
+                "name": "Masih Keliatan", 
+                "points": 10
+            }, 
+            {
+                "category": "Forensic", 
+                "description": "Hilang seperti bintang dilangit.", 
+                "files": [
+                    "/files/bd56e2a3a7722db45fdd3b97a133a6e1/lenyap.zip?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjoyMH0.XdwgrA.Utd_0i4l0ZA8FoDyzXuzts1MHLU"
+                ], 
+                "hint": "", 
+                "id": 28, 
+                "name": "Star", 
+                "points": 40
+            }, 
+            {
+                "category": "Forensic", 
+                "description": "", 
+                "files": [
+                    "/files/8200da32648311e85156d0a1366e1c49/pemanasan.zip?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjoyMn0.XdwgrA.qI5sW505ekg7CMFSCf_dl8S2Y3c"
+                ], 
+                "hint": "", 
+                "id": 29, 
+                "name": "Pemanasan Dolo", 
+                "points": 10
+            }, 
+            {
+                "category": "Forensic", 
+                "description": "", 
+                "files": [
+                    "/files/5a0e196a9f8f6aec8c8699647c594072/ASGama.txt?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjoyM30.XdwgrQ.e344KbpKBX0vowE75EnFimRu_58"
+                ], 
+                "hint": "", 
+                "id": 30, 
+                "name": "XOR", 
+                "points": 79
+            }, 
+            {
+                "category": "Forensic", 
+                "description": "", 
+                "files": [
+                    "/files/17e3e1d19b71f7e4fc9732b1071713a2/kode.zip?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjoyNH0.Xdwgrg.GaeM6E3U3rQz9S5NbBHM0mCo9Gk"
+                ], 
+                "hint": "", 
+                "id": 31, 
+                "name": "Quick Responsive Code", 
+                "points": 137
+            }, 
+            {
+                "category": "Forensic", 
+                "description": "Usagi's likes to jump. How about PNG Chunks?", 
+                "files": [
+                    "/files/fe3c92382e651d83c27599526636d7eb/flag.png?token=.eJyrVipJTcyNz0xRsjIytNRRKi1OLYLwzHSU0jJzUqGcWgARjQzB.Xdwgrg.b4tgjV2JEEr6T_LUI2YYXVSCxDg"
+                ], 
+                "hint": "", 
+                "id": 33, 
+                "name": "Pyon Pyon", 
+                "points": 200
+            }, 
+            {
+                "category": "Forensic", 
+                "description": "\"To hold on to that feeling even if we'd be far apart. And that became my compass in life\"\r\n\r\n- Byosoku 5 Centimeter", 
+                "files": [
+                    "/files/0105741b721ac1864db3a4a379729631/jarak.pcap?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjozM30.Xdwgrw.no5K4ihi43qkjWoR8eo-zEuWcNw"
+                ], 
+                "hint": "", 
+                "id": 41, 
+                "name": "Jarak di antara Kita", 
+                "points": 149
+            }, 
+            {
+                "category": "Forensic", 
+                "description": "Main ping pong skuy!", 
+                "files": [
+                    "/files/064d6b71bcb70e569ef993bd75938d90/ping-pong.pcap?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjozNH0.XdwgsA.GbuzZz7ZrHay1g1rWVcxXRACPxg"
+                ], 
+                "hint": "", 
+                "id": 42, 
+                "name": "Ping-Pong", 
+                "points": 50
+            }, 
+            {
+                "category": "Forensic", 
+                "description": "It's pretty old & classic. But have you ever seen a secret behind the rainbow?", 
+                "files": [
+                    "/files/17973b29cce5d86b29dcb190cf119236/sketch.png?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjozNX0.XdwgsA.5Yt6nczV5o7iQ7y0TncS0OCKJJk"
+                ], 
+                "hint": "", 
+                "id": 43, 
+                "name": "Himitsu", 
+                "points": 60
+            }
+        ], 
+        "Misc": [
+            {
+                "category": "Misc", 
+                "description": "", 
+                "files": [
+                    "/files/ee64d9c36aa01806c25b9374ba526e40/Dictionary.txt?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjoxN30.XdwgqA.n2yMi9TU90ou_WE8F3ERdEYv6Hc", 
+                    "/files/e47f0ffaa0981fef654e87b477bf1f75/flag.zip?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjoxOH0.XdwgqA.0AFI_SlcV9vo7bWCnF8sUs5Yx2E"
+                ], 
+                "hint": "", 
+                "id": 25, 
+                "name": "Brute Force Attack", 
+                "points": 69
+            }, 
+            {
+                "category": "Misc", 
+                "description": "Latihan menghitung <br>\r\nnc 202.43.92.132 43000", 
+                "files": [], 
+                "hint": "", 
+                "id": 50, 
+                "name": "Aritmatika", 
+                "points": 52
+            }, 
+            {
+                "category": "Misc", 
+                "description": "bantu up soal GEMASTIK", 
+                "files": [
+                    "/files/d4295d24822e2267d61807cf11b0f233/brute.bin?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjo1Mn0.Xdwgqg.hd9JlWGXDiOyuhioEuPQ5A341BY"
+                ], 
+                "hint": "", 
+                "id": 62, 
+                "name": "GEMASTIK2019 Bruteforce", 
+                "points": 150
+            }
+        ], 
+        "Reverse Engineering": [
+            {
+                "category": "Reverse Engineering", 
+                "description": "what is the value of ax <br>\r\nFormat flag : ASGama{hex(ax value)} <br>\r\nexample      : ASGama{0x00} <br>", 
+                "files": [
+                    "/files/201eeeb06befce2718e7d25ba54c928a/ez1.asm?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjoxMX0.XdwgqA.vfX3UvpzG9yVyhbFpA3Tm87IQqo"
+                ], 
+                "hint": "", 
+                "id": 20, 
+                "name": "ez1", 
+                "points": 36
+            }, 
+            {
+                "category": "Reverse Engineering", 
+                "description": "", 
+                "files": [
+                    "/files/4f89ef2dcd4d1a129fc546d16c1a3f94/trace_on?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjoxMn0.Xdwgqg.qn06VjNAeKv5aIZzKL6Ky8AXa0Y"
+                ], 
+                "hint": "", 
+                "id": 21, 
+                "name": "Trace On", 
+                "points": 10
+            }, 
+            {
+                "category": "Reverse Engineering", 
+                "description": "Dread it. Run from it. Destiny arrives all the same", 
+                "files": [
+                    "/files/574145227411ea31336104599229f4fc/lari?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjoxM30.Xdwgqg.Wn7QGE9UOUmgQrO1bjhEfnMFS3A"
+                ], 
+                "hint": "", 
+                "id": 22, 
+                "name": "Run", 
+                "points": 10
+            }, 
+            {
+                "category": "Reverse Engineering", 
+                "description": "", 
+                "files": [
+                    "/files/e5ae8f208383c5728b82badf2788cc37/kowe_ki_ngopo?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjoyN30.XdwgrA.TA0h2IvKObRrPWVY0DNOM6ekMoE"
+                ], 
+                "hint": "", 
+                "id": 35, 
+                "name": "AndOr", 
+                "points": 49
+            }, 
+            {
+                "category": "Reverse Engineering", 
+                "description": "what is the value of eax <br>\r\nFormat flag : ASGama{hex(eax value)} <br>\r\nexample : ASGama{0x0000} <br>", 
+                "files": [
+                    "/files/38a776810c0a827ec6588e51d7bb812e/ez2.asm?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjo0MX0.XdwgrA.9dNod1BwK0n0SXJjZmeNVSUq7rE"
+                ], 
+                "hint": "", 
+                "id": 52, 
+                "name": "ez 2", 
+                "points": 79
+            }, 
+            {
+                "category": "Reverse Engineering", 
+                "description": "", 
+                "files": [
+                    "/files/ed063423db3b262cfbeaaebd3f465321/enc.asm?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjo0Mn0.XdwgrQ.LC3xXSUBhFtP3xskrhf1-FJ6-Fk"
+                ], 
+                "hint": "", 
+                "id": 53, 
+                "name": "ez 3", 
+                "points": 78
+            }, 
+            {
+                "category": "Reverse Engineering", 
+                "description": "", 
+                "files": [
+                    "/files/e9e21bb7743d909e6548548cdf06072c/basic1?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjo0Nn0.Xdwgrg.FxeIppjbXoXkBi2wsbXk_Hd7wMQ"
+                ], 
+                "hint": "", 
+                "id": 56, 
+                "name": "Basic rev 1", 
+                "points": 10
+            }, 
+            {
+                "category": "Reverse Engineering", 
+                "description": "", 
+                "files": [
+                    "/files/a5765ece477f14c9dfbeaa6a06a0ea4a/basic2?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjo0NX0.Xdwgrg.d2u4uY3Kn3Sx1xQGfiDkKgwWRCk"
+                ], 
+                "hint": "", 
+                "id": 57, 
+                "name": "Basic rev 2", 
+                "points": 10
+            }, 
+            {
+                "category": "Reverse Engineering", 
+                "description": "", 
+                "files": [
+                    "/files/db6aa0b2c9d2b9e8f55e17bc38bafb1d/basic3?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjo0N30.Xdwgrw.o157I0o_1rcmSpRVlwirVEY33eI"
+                ], 
+                "hint": "", 
+                "id": 58, 
+                "name": "Basic rev 3", 
+                "points": 10
+            }
+        ], 
+        "Web": [
+            {
+                "category": "Web", 
+                "description": "link: web.ctflearn.com/web4 <br>\r\nformat flag: ASGama{flag}", 
+                "files": [], 
+                "hint": "", 
+                "id": 8, 
+                "name": "Basic Injection", 
+                "points": 20
+            }, 
+            {
+                "category": "Web", 
+                "description": "Masukkan kombinasi kode nuklir untuk mendapatkan flag\r\n<a href=\"http://202.43.92.132:40002\">http://202.43.92.132:40002</a>", 
+                "files": [
+                    "/files/4538a074e3a06c5b7be331a405255fa5/index.php?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjoyNX0.Xdwgqg.sHNeLPm9RRWjMk1TmuiqQeNjcxc"
+                ], 
+                "hint": "", 
+                "id": 32, 
+                "name": "Kode Nuklir", 
+                "points": 50
+            }, 
+            {
+                "category": "Web", 
+                "description": "http://202.43.92.132:40003/", 
+                "files": [], 
+                "hint": "", 
+                "id": 34, 
+                "name": "Inspector Gadget", 
+                "points": 10
+            }, 
+            {
+                "category": "Web", 
+                "description": "Format flag: ASGama{%flag}\r\n\r\nSoal: <a href=\"http://http://202.43.92.132:40001/\">202.43.92.132:40001</a>", 
+                "files": [], 
+                "hint": "", 
+                "id": 46, 
+                "name": "Are you blind? yes? maybe?", 
+                "points": 50
+            }, 
+            {
+                "category": "Web", 
+                "description": "did you know microservice? <br>\r\nhttp://35.197.130.141:30000/ <br><br>\r\n<b>*Note: ijin deploy soalnya ya gan :3</b>", 
+                "files": [
+                    "/files/9b3f519f741e062d9b93aa65d7c2e08f/yves.zip?token=eyJ0ZWFtX2lkIjoyMTksInVzZXJfaWQiOjI2LCJmaWxlX2lkIjo1NH0.XdwgrA.-6ifXD1qZUwImNLvfThM1xzJtSc"
+                ], 
+                "hint": "", 
+                "id": 65, 
+                "name": "Yves (Final CJ 2019)", 
+                "points": 300
+            }
+        ]
+    }, 
+    "url": "https://ctf.asgama.pw"
+}
